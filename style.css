@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #b194a4;
+}
+
+.container {
+    display: block;
+    border: 160px solid #f9d8f4;
+    border-radius: 250px;
+    padding: 4em;
+}
+
+
+
+input {
+    padding: 10px 25px 50px;
+    border-radius: 30px;
+    background-color: rgb(125, 93, 119);
+
+}
+
+.calculator {
+    display: flex;
+    padding: 5px;
+}
+
+
+
+select {
+    border-radius: 20px;
+    padding: 10px 15px 10px;
+    background-color: #a97893;
+}
+
+button {
+    display: block;
+    margin-left: 40px;
+    padding: 10px 10px 10px;
+    border-radius: 20px;
+    background-color: rgb(213, 159, 199);
+    margin: 15px;
+
+}
